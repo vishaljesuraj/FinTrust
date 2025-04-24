@@ -15,3 +15,6 @@ A sleek and modern landing page designed for a finance company, showcasing profe
 ## 🛠️ Technologies Used  
 - HTML  
 - CSS  
+## ©️ Author  
+**Vishal Jesu Raj**  
+[GitHub Profile](https://github.com/vishaljesuraj)
