@@ -1,4 +1,4 @@
 # FinTrust
 Finance Company Landing Page
-Checkout the live project here:
-https://vishaljesuraj.github.io/FinTrust/
+
+[Click here to view the project](https://vishaljesuraj.github.io/FinTrust/)
